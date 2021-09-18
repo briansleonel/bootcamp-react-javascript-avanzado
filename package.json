@@ -1,0 +1,22 @@
+{
+  "name": "javascript_bootcamp_fi_unju",
+  "version": "1.0.0",
+  "description": "ejercitacion javascript Bootcamp. Facultad de ingenierias, Universidad Nacional de Jujuy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch JSAvanzado.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootcamp-FI/JAVASCRIPT-.git"
+  },
+  "author": "Bryan Camilo Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootcamp-FI/JAVASCRIPT-/issues"
+  },
+  "homepage": "https://github.com/bootcamp-FI/JAVASCRIPT-#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
